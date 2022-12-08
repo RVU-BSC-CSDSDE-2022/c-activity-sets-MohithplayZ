@@ -37,4 +37,4 @@ int main()
   
   final= find_distance(a,b,c,d);
  output(a,b,c,d,final);
-}
+}load final output

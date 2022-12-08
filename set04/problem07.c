@@ -26,6 +26,8 @@ Line input_line()
   l.p1= input_point();
   l.p2= input_point();
   return l;
+  //nothing
+  
 }
 void find_length(Line *l)
 {
